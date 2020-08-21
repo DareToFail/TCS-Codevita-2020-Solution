@@ -1,0 +1,24 @@
+Input 1:
+4
+C D C D
+C C D C
+D D D D
+C D D D
+
+ANS -- 3
+----
+C---
+C---
+C C C C
+
+Input 2:
+7
+C D D C D D D
+C D D C D D D
+D D D D D D C
+D C D C D D D
+D D D C D C D
+C D D C D C C
+C D C D C C C
+
+ANS= 5
